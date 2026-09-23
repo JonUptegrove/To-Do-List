@@ -1,0 +1,16 @@
+Task: Get Food
+Description: Get Milk, Eggs, Bacon, Apples
+Incomplete
+
+Task: Study
+Description: Study for Java test
+Incomplete
+
+Task: Do Homework
+Description: Do my Java programming homework
+Incomplete
+
+Task: Create Calculator Project
+Description: Start Calculator project for GitHub
+Incomplete
+
